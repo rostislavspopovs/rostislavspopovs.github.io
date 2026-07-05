@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webdev on Ross Popovs</title>
+    <link>http://localhost:1313/webdev/</link>
+    <description>Recent content in Webdev on Ross Popovs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 27 Jun 2026 15:10:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/webdev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blue Corridors (2025)</title>
+      <link>http://localhost:1313/webdev/bluecorridors/</link>
+      <pubDate>Sat, 27 Jun 2026 15:10:31 +0100</pubDate>
+      <guid>http://localhost:1313/webdev/bluecorridors/</guid>
+      <description>Click on an image to cycle through the gallery - includes a full walk-through video of the finished app! Overview Originally developed for the 2025 &amp;lsquo;Whales&amp;rsquo; exhibition at Winchester Cathedral, BLUE CORRIDORS is an interactive AR web-app based on a collaborative report between the WWF, University of Southampton, and 20 other institutions and charities.&#xA;The app raises awareness of &amp;ldquo;Blue Corridors&amp;rdquo; - a collection of vital whale migration paths throughout the world, visualising the paths and highlighting human-engineered threats which disturb them.</description>
+    </item>
+  </channel>
+</rss>
