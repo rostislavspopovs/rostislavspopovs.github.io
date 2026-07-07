@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Ross Popovs</title>
-    <link>https://rostislavspopovs.github.io/research/</link>
+    <link>http://localhost:34243/research/</link>
     <description>Recent content in Research on Ross Popovs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 27 Jun 2026 15:10:31 +0100</lastBuildDate>
-    <atom:link href="https://rostislavspopovs.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:34243/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Undergraduate Research Project (2023)</title>
-      <link>https://rostislavspopovs.github.io/research/bachelors-thesis/</link>
+      <link>http://localhost:34243/research/bachelors-thesis/</link>
       <pubDate>Sat, 27 Jun 2026 15:10:31 +0100</pubDate>
-      <guid>https://rostislavspopovs.github.io/research/bachelors-thesis/</guid>
+      <guid>http://localhost:34243/research/bachelors-thesis/</guid>
       <description>Exploring the extent to which player modelling and personalisation impact the capacity of video games for the development of emotional intelligence (2023) Click here to view the full report (opens in new tab) Abstract Video games offer unique affordances for engagement not seen in other media. This report summarises existing literature in the spaces of player modelling, emotion theory, personalisation and emotional intelligence to provide a conceptual link between these four fields and assesses the effect that personalisation has on the potential of video games as a tool for prolonged emotional regulation.</description>
     </item>
   </channel>
