@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Afterimage on Ross Popovs</title>
-    <link>http://localhost:34243/afterimage/</link>
+    <link>https://rostislavspopovs.github.io/afterimage/</link>
     <description>Recent content in Afterimage on Ross Popovs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 27 Jun 2026 15:10:31 +0100</lastBuildDate>
-    <atom:link href="http://localhost:34243/afterimage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rostislavspopovs.github.io/afterimage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Supersapient (2020-)</title>
-      <link>http://localhost:34243/afterimage/supersapient/</link>
+      <link>https://rostislavspopovs.github.io/afterimage/supersapient/</link>
       <pubDate>Sat, 27 Jun 2026 15:10:31 +0100</pubDate>
-      <guid>http://localhost:34243/afterimage/supersapient/</guid>
+      <guid>https://rostislavspopovs.github.io/afterimage/supersapient/</guid>
       <description>A foreword Supersapient was and still is an incredibly personal project for me, and it has proved really difficult to document it retrospectively. What at the time was a small game that I started with a few friends in the summer between our A-Levels and University had grown into an amorphous entity of massive proportions. I see it as a labour of love for the art of game development and all the media and styles that influenced it, and it holds so much meaning for me personally that it was ever intended to.</description>
     </item>
     <item>
       <title>Ozone (2025)</title>
-      <link>http://localhost:34243/afterimage/ozone/</link>
+      <link>https://rostislavspopovs.github.io/afterimage/ozone/</link>
       <pubDate>Sat, 27 Jun 2026 15:10:31 +0100</pubDate>
-      <guid>http://localhost:34243/afterimage/ozone/</guid>
+      <guid>https://rostislavspopovs.github.io/afterimage/ozone/</guid>
       <description>Ozone is an anti-game created for the 2025 Global Game over the course of 3 days. Presenting itself as a regular incremental game such as Cookie Clicker, it aims to criticise capitalist greed by subverting the expectation of infinite resources that are commonly assumed in similar games.&#xA;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can download it and watch it with your favorite video player! Objective: Accumulate as many bubbles (BUPS) as possible.</description>
     </item>
     <item>
       <title>Mirrors (Installation Concept)</title>
-      <link>http://localhost:34243/afterimage/mirror/</link>
+      <link>https://rostislavspopovs.github.io/afterimage/mirror/</link>
       <pubDate>Sat, 27 Jun 2026 15:10:31 +0100</pubDate>
-      <guid>http://localhost:34243/afterimage/mirror/</guid>
+      <guid>https://rostislavspopovs.github.io/afterimage/mirror/</guid>
       <description>Proposal This is a concept of an installation that I would like to explore. Temporary name &amp;ldquo;Mirrors&amp;rdquo;, the audience is invited into a dark room, encouraged to go in by themselves or with their loved one. They see a waving sheet in front of them, on which a glowing pattern is projected. They hear ambient and atmospheric music emanating behind it. As they walk closer, a glowing figure fades in - a mirror image of themselves.</description>
     </item>
   </channel>
